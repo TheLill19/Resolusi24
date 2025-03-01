@@ -1,6 +1,6 @@
 Target 
 - konsisten untuk belajar codingan 
 - membuat project
-- bisa belajar bahasa
 - dapat beasiswa 
 - mengikuti workshop 
+- kolaborasi dengan expert
